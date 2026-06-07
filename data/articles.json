@@ -1,0 +1,29 @@
+[
+    {
+        "slug": "lew-afrykanski",
+        "title": "Lew afrykański",
+        "species": "Panthera leo",
+        "habitat": "Sawanny i suche lasy Afryki",
+        "diet": "Mięsożerny",
+        "content": "Lew afrykański jest jednym z najbardziej rozpoznawalnych drapieżników świata. Żyje w stadach, poluje głównie na duże ssaki kopytne i odgrywa ważną rolę w utrzymaniu równowagi ekosystemu.",
+        "created_at": "2026-06-07"
+    },
+    {
+        "slug": "pingwin-cesarski",
+        "title": "Pingwin cesarski",
+        "species": "Aptenodytes forsteri",
+        "habitat": "Antarktyda",
+        "diet": "Ryby, kryl i kałamarnice",
+        "content": "Pingwin cesarski to największy gatunek pingwina. Jest świetnie przystosowany do ekstremalnego zimna, a jego kolonie lęgowe powstają na lodzie morskim Antarktydy.",
+        "created_at": "2026-06-07"
+    },
+    {
+        "slug": "zolw-galapagoski",
+        "title": "Żółw galapagoski",
+        "species": "Chelonoidis niger",
+        "habitat": "Wyspy Galapagos",
+        "diet": "Rośliny, trawy, liście i owoce",
+        "content": "Żółwie galapagoskie słyną z długowieczności i imponujących rozmiarów. Ich powolny tryb życia oraz izolowane środowisko sprawiły, że stały się symbolem wyjątkowej fauny Galapagos.",
+        "created_at": "2026-06-07"
+    }
+]
