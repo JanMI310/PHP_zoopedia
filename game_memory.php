@@ -47,7 +47,7 @@ require_login();
                 image: 'https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?auto=format&fit=crop&w=420&q=80'
             },
             {
-                name: 'Delfin',
+                name: 'Ryby',
                 image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=420&q=80'
             },
             {

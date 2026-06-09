@@ -32,8 +32,8 @@ $featuredArticles = array_slice($featuredArticles, 0, 4);
                     </form>
                 </div>
                 <div class="hero-photo-grid" aria-label="Zdjęcia zwierząt">
-                    <img class="hero-photo hero-photo-large" src="https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=900&q=80" alt="Lew na sawannie">
-                    <img class="hero-photo" src="https://images.unsplash.com/photo-1552728089-57bdde30beb3?auto=format&fit=crop&w=500&q=80" alt="Kolorowy ptak">
+                    <img class="hero-photo hero-photo-large" src="https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?auto=format&fit=crop&w=700&h=900&q=80" alt="Lew na sawannie">
+                    <img class="hero-photo hero-photo-bird" src="https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?auto=format&fit=crop&w=500&q=80" alt="Kolorowy ptak">
                     <img class="hero-photo" src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=500&q=80" alt="Podwodne życie">
                 </div>
             </div>
@@ -55,7 +55,7 @@ $featuredArticles = array_slice($featuredArticles, 0, 4);
                 </article>
 
                 <article class="home-feature-card">
-                    <img class="feature-image" src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890?auto=format&fit=crop&w=900&q=80" alt="Ptak w locie">
+                    <img class="feature-image feature-image-bird" src="https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?auto=format&fit=crop&w=900&q=80" alt="Kolorowy ptak na gałęzi">
                     <p class="eyebrow">Aktualności</p>
                     <h2>Tydzień obserwacji ptaków</h2>
                     <p>W tym tygodniu zachęcamy do notowania gatunków zauważonych w parkach, ogrodach i przy szkolnych podwórkach.</p>
@@ -63,7 +63,7 @@ $featuredArticles = array_slice($featuredArticles, 0, 4);
                 </article>
 
                 <article class="home-feature-card">
-                    <img class="feature-image" src="https://images.unsplash.com/photo-1535083783855-76ae62b2914e?auto=format&fit=crop&w=900&q=80" alt="Opieka nad zwierzętami">
+                    <img class="feature-image feature-image-nest" src="https://images.unsplash.com/photo-1520808663317-647b476a81b9?auto=format&fit=crop&w=900&q=80" alt="Ptak w budce lęgowej">
                     <p class="eyebrow">Ochrona zwierząt</p>
                     <h2>Zbiórka na budki lęgowe</h2>
                     <p>Trwa akcja wspierająca zakup materiałów na budki dla małych ptaków oraz domki dla owadów zapylających.</p>

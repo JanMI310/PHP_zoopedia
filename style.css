@@ -176,11 +176,17 @@ button:hover {
     box-shadow: 0 24px 50px rgba(0, 0, 0, 0.28);
     height: 100%;
     object-fit: cover;
+    object-position: center;
     width: 100%;
 }
 
 .hero-photo-large {
     grid-row: span 2;
+    object-position: center;
+}
+
+.hero-photo-bird {
+    object-position: center 36%;
 }
 
 .eyebrow,
@@ -256,7 +262,16 @@ button:hover {
     display: block;
     margin: -8px -8px 8px;
     object-fit: cover;
+    object-position: center;
     width: calc(100% + 16px);
+}
+
+.feature-image-bird {
+    object-position: center 35%;
+}
+
+.feature-image-nest {
+    object-position: center 42%;
 }
 
 .home-feature-card h2 {
