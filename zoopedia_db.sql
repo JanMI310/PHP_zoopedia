@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Cze 09, 2026 at 09:58 PM
+-- Generation Time: Cze 10, 2026 at 07:52 AM
 -- Wersja serwera: 10.4.32-MariaDB
 -- Wersja PHP: 8.2.12
 
@@ -56,7 +56,10 @@ INSERT INTO `articles` (`id`, `slug`, `title`, `animal_type`, `species`, `habita
 (9, 'zabnica', 'Żabnica', 'ryba', 'Lophius piscatorius', 'Ciemne, piaszczyste i muliste dna oceanów', 'Mięsożerca (ryby, skorupiaki, a nawet polujące przy powierzchni ptaki wodne)', 'Żabnica, nazywana też diabłem morskim, to jedna z najdziwniejszych ryb świata. Posiada ogromną, spłaszczoną głowę z paszczą pełną ostrych zębów. Jej najbardziej niesamowitą cechą jest \"wędka\" (ilicjum) – przekształcony promień płetwy grzbietowej, który zwisa tuż przed jej pyskiem. Na końcu wędki znajduje się świecący wabik, który przyciąga zdezorientowane ofiary wprost w otwartą paszczę żabnicy. Co ciekawe, mimo swojego przerażającego wyglądu, jest uważana za rarytas w kuchni.', 'animal_6a2851958282c9.98974729.jpg', '2026-06-09'),
 (10, 'cudowronka-blekitna', 'Cudowronka błękitna', 'ptak', 'Parotia lawesii', 'Górskie lasy deszczowe Nowej Gwinei', 'Wszystkożerca (głównie owoce, stawonogi, nasiona)', 'Cudowronka (rajski ptak) to absolutne mistrzostwo natury. Samce tego gatunku posiadają aksamitnoczarne pióra, które pochłaniają niemal 100% światła, oraz neonowo połyskującą tarczę na piersi. Aby zaimponować samicy, samiec czyści fragment lasu z liści, tworząc idealną „scenę”, a następnie wykonuje niesamowity taniec baletowy – stroszy pióra tak, że przypomina czarną spódnicę, i kołysze głową, na której sterczą długie, ozdobne pióra przypominające anteny.', 'animal_6a2851e6219b97.13311279.jpg', '2026-06-09'),
 (11, 'trzewikodzi-ob', 'Trzewikodziób', 'ptak', 'Balaeniceps rex', 'Rozległe, niedostępne bagniska i trzęsawiska Afryki Wschodniej (głównie Sudan Południowy i Uganda)', 'Mięsożerca (głównie ryby dwudyszne, ale też młode krokodyle, węże i wodne gryzonie)', 'Trzewikodziób to jeden z najbardziej niezwykłych i fotogenicznych ptaków na świecie. Osiąga do 1,5 metra wysokości, a jego rozpiętość skrzydeł przekracza 2 metry. Jego znak rozpoznawczy to potężny, przypominający drewniany but dziób, zakończony ostrym hakiem, który służy do chwytania śliskich ryb. Ptak ten potrafi stać całkowicie nieruchomo przez wiele godzin, wypatrując ofiary, przez co przypomina posąg. Kiedy się komunikuje, kłapie dziobem, co wydaje dźwięk przypominający serię z karabinu maszynowego. Mimo groźnego, wręcz prehistorycznego wyglądu, wobec ludzi wykazuje niezwykłą... potulność i potrafi kłaniać się w geście powitania.', 'animal_6a285287a437b5.04532342.jpg', '2026-06-09'),
-(12, 'zyzu-s-tlu-scioch', 'Zyzuś tłuścioch', 'owad', 'Steatoda bipunctata', 'Ciemne, suche zakamarki w ludzkich domostwach, piwnicach, strychach, a także pod korą drzew', 'Mięsożerca (głównie mrówki, muchy, komary i inne drobne owady)', 'Zyzuś tłuścioch to mały pająk, który swoją zabawną nazwę zawdzięcza charakterystycznemu, mocno zaokrąglonemu i błyszczącemu odwłokowi. Samice są nieco większe i mają ciemnobrązowe, wręcz czekoladowe ubarwienie. Zyzuś jest niezwykle pożytecznym współlokatorem – buduje nieregularne sieci w kątach pokoi lub za meblami, skutecznie oczyszczając nasz dom z natrętnych much i komarów. Co fascynujące, samce tego gatunku potrafią wydawać dźwięki (słyszalne dla innych pająków), pocierając o siebie części swojego ciała, co służy do wabienia partnerek. Dla człowieka jest całkowicie niegroźny.', 'animal_6a286e3b1e5b56.18915445.jpg', '2026-06-09');
+(12, 'zyzu-s-tlu-scioch', 'Zyzuś tłuścioch', 'owad', 'Steatoda bipunctata', 'Ciemne, suche zakamarki w ludzkich domostwach, piwnicach, strychach, a także pod korą drzew', 'Mięsożerca (głównie mrówki, muchy, komary i inne drobne owady)', 'Zyzuś tłuścioch to mały pająk, który swoją zabawną nazwę zawdzięcza charakterystycznemu, mocno zaokrąglonemu i błyszczącemu odwłokowi. Samice są nieco większe i mają ciemnobrązowe, wręcz czekoladowe ubarwienie. Zyzuś jest niezwykle pożytecznym współlokatorem – buduje nieregularne sieci w kątach pokoi lub za meblami, skutecznie oczyszczając nasz dom z natrętnych much i komarów. Co fascynujące, samce tego gatunku potrafią wydawać dźwięki (słyszalne dla innych pająków), pocierając o siebie części swojego ciała, co służy do wabienia partnerek. Dla człowieka jest całkowicie niegroźny.', 'animal_6a286e3b1e5b56.18915445.jpg', '2026-06-09'),
+(13, 'suhak-stepowy', 'Suhak stepowy', 'ssak', 'Saiga tatarica', 'Suche stepy i półpustynie Azji Środkowej', 'Roślinożerca (trawy, zioła)', 'Suhak to antylopa, która wygląda, jakby urwała się z epoki lodowcowej. Jej najbardziej charakterystyczną cechą są wielkie, obwisłe, przypominające trąbę nozdrza. Ten specyficzny nos działa jak zaawansowany filtr klimatyzacyjny: latem filtruje wszechobecny pył i kurz ze stepu, a zimą ogrzewa lodowate powietrze, zanim trafi ono do płuc zwierzęcia. Suhaki to świetni biegacze, potrafiący pędzić z prędkością do 80 km/h.', 'animal_6a2894c1973d97.91246647.jpg', '2026-06-10'),
+(14, 'skoczek-nosaty', 'Skoczek nosaty', 'owad', 'Fulgora laternaria', 'Wilgotne lasy tropikalne Ameryki Środkowej i Południowej', 'Roślinożerca (wysysa soki z drzew i roślin)', 'Ten owad to absolutny mistrz dziwacznego wyglądu. Na jego głowie znajduje się ogromny, pusty w środku wyrostek, który z profilu do złudzenia przypomina... orzeszek ziemny albo łeb małego krokodyla (łącznie z namalowanymi „zębami”). Ma to na celu odstraszanie ptaków i jaszczurek. Dodatkowo, gdy Fulgora rozłoży skrzydła, widać na nich wielkie plamy przypominające oczy drapieżnika. Dawniej wierzono, że jej \"nos\" świeci w ciemności, stąd jej angielska nazwa Lantern fly.', 'animal_6a2895416aa7e4.88189902.jpg', '2026-06-10'),
+(15, 'czakalaka-rdzaworzytna', 'Czakalaka rdzaworzytna', 'ptak', 'Ortalis ruficauda', 'Suche lasy, zarośla i ogrody w Wenezueli, Kolumbii oraz na wyspach Tobago i Grenada', 'Roślinożerca/ Wszystkożerca (owoce, nasiona, liście, czasem duże owady)', 'Czakalaka rdzaworzytna (narodowy ptak wyspy Tobago) swoją egzotyczną nazwę zawdzięcza dźwiękom, jakie z siebie wydaje. Ptaki te żyją w głośnych stadach i o świcie rozpoczynają niesamowicie hałaśliwy „koncert”, w którym powtarzają rytmiczne, skrzeczące „cza-ka-la-ka!”. Z wyglądu przypominają smukłe kury o długich ogonach. Choć spędzają dużo czasu na ziemi szukając pożywienia, są świetnymi akrobatami i potrafią zwinnie biegać po gałęziach drzew. Są tak popularne i towarzyskie, że w niektórych rejonach Karaibów podchodzą pod domy ludzi jak u nas gołębie.', 'animal_6a28963841dd39.25492848.jpg', '2026-06-10');
 
 -- --------------------------------------------------------
 
@@ -79,7 +82,10 @@ CREATE TABLE `forum_comments` (
 
 INSERT INTO `forum_comments` (`id`, `topic_id`, `author_id`, `author_login`, `content`, `created_at`) VALUES
 (1, 1, 3, '456', 'Jeż nigdzie nie tupta. To Ziemia obraca się pod jego stópkami.', '2026-06-09 21:54:45'),
-(2, 1, 4, 'abc', 'Próbuje zindeksować tabelę z artykułami o zwierzętach, bo wyszukiwarka ładuje się dłużej niż on tupta przez las.', '2026-06-09 21:56:52');
+(2, 1, 4, 'abc', 'Próbuje zindeksować tabelę z artykułami o zwierzętach, bo wyszukiwarka ładuje się dłużej niż on tupta przez las.', '2026-06-09 21:56:52'),
+(3, 2, 3, '456', 'Mój kot ma wzrok seryjnego mordercy, ale na szczęście brakuje mu kciuków, żeby otworzyć szafkę z nożami. Tylko to mnie ratuje.', '2026-06-10 00:27:34'),
+(4, 3, 3, '456', 'Rekin młot patrzy na zwykłego rekina i myśli: \'Stary, twój promień widzenia to jakiś żart. Weź zmień rozdzielczość na ultrawide tak jak ja\'.', '2026-06-10 00:29:57'),
+(5, 2, 4, 'abc', 'U mnie nie ma przepraszania. Obydwa grają w tę samą grę. Kot stosuje terror psychiczny i wykańcza mnie wzrokiem, a pies udaje słodkiego, żeby podbierać mi ze stołu narzędzia zbrodni. Wspólnie pracują nad tym, żebym \'przypadkowo\' potknął się o nich na schodach.', '2026-06-10 00:30:57');
 
 -- --------------------------------------------------------
 
@@ -101,7 +107,9 @@ CREATE TABLE `forum_topics` (
 --
 
 INSERT INTO `forum_topics` (`id`, `title`, `content`, `author_id`, `author_login`, `created_at`) VALUES
-(1, 'Ważne pytanie!!!', 'Dokąd nocą tupta jeż?', 1, '123', '2026-06-09 21:53:03');
+(1, 'Ważne pytanie!!!', 'Dokąd nocą tupta jeż?', 1, '123', '2026-06-09 21:53:03'),
+(2, 'Ostateczne starcie!', 'Czy masz kota, który patrzy na Ciebie, jakby planował Twoje morderstwo, czy może masz psa, który przeprasza wzrokiem, że żyje?', 1, '123', '2026-06-10 00:20:38'),
+(3, 'Co myślicie??', 'Czy rekiny młoty kiedykolwiek patrzą na inne rekiny i myślą: \'Boże, ale oni mają nudne kształty głów\'?', 1, '123', '2026-06-10 00:25:14');
 
 -- --------------------------------------------------------
 
@@ -168,19 +176,19 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `articles`
 --
 ALTER TABLE `articles`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
 
 --
 -- AUTO_INCREMENT for table `forum_comments`
 --
 ALTER TABLE `forum_comments`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `forum_topics`
 --
 ALTER TABLE `forum_topics`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `users`
